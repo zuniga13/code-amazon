@@ -1,6 +1,6 @@
 {
-  "ADS_PROVIDER": "IRONSOURCE",
-  "ADS_VIDEO": "YES",
+  "ADS_PROVIDER": "YANDEX",
+  "ADS_VIDEO": "NO",
   "YANDEX_BANNER": "demo-banner-yandex",
   "YANDEX_INTERSTITIAL": "demo-interstitial-yandex",
   "YANDEX_REWARED": "demo-rewarded-yandex",
